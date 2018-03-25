@@ -16,3 +16,11 @@ twitter_username: findanddelete
 github_username:  findanddelete
 # Build settings
 markdown: kramdown
+
+post:
+  template: _post.txt
+  extension: markdown
+
+page:
+  template: _page.txt
+  extension: md

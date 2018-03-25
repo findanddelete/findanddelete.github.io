@@ -11,8 +11,7 @@ title: Find and delete
 email: your-email@domain.com
 
 description: > # this means to ignore newlines until "baseurl:"
-Hi, this blog is collection of code I find interesting and/or useful.
-It is what it lacks in content, organization, and style it makes up for in brevity.
+Hi, this blog is collection of code I find interesting and/or useful. It is what it lacks in content, organization, and style it makes up for in brevity.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 
